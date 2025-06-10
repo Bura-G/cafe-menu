@@ -1,8 +1,12 @@
 #include<iostream>
 using namespace std;
-int main(){
-void show(){
 
-    cout<<"the king";
-}
+int main(){
+
+int 4,5,sum;
+sum=4+5;
+cout<<"the sum is"<<sum<<endl;
+
+    
+
 }
